@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princebansal7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princebansal7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princebansal7&show_icons=true&locale=en&theme=tokyonight" alt="princebansal7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princebansal7&show_icons=true&locale=en&theme=tokyonight" alt="princebansal7"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p>
