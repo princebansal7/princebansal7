@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif)](https://www.linkedin.com/in/princebansal07/) -->
 <h1 align="center">Hi, I'm Prince Bansal</h1>
 <h3 align="center">A passionate Coder from India.</h3>
-<img align="right" alt="Coding" width="396" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princebansal7&label=Profile%20views&color=0e75b6&style=flat" alt="princebansal7" /> </p>
 
