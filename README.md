@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **Data structures, C++, React js**
+- 💬 Ask me about **Data structures, C, C++, React js**
 
 - 📫 How to reach me **prince.bansal008@gmail.com**
 
