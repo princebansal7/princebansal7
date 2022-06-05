@@ -38,7 +38,7 @@
    <th><p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th></tr>
   
 <tr><th><p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=princebansal7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princebansal7" /></p></th>
-  <th><img align="right" alt="Coding" width="400" src="coderman.gif"></th>
+  <th><img align="right" alt="Coding" width="410" src="coderman.gif"></th>
   </tr>
   
 </table>
