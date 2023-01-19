@@ -37,7 +37,7 @@
 <table>
   <tr>
     <th><p><img align="center" width="500" src="https://github-readme-stats-dpc7.vercel.app/api?username=princebansal7&show_icons=true&locale=en&theme=tokyonight" alt="princebansal7"/></p></th>
-    <th><p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th>    
+    <th><p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th>    
   </tr>
   <tr>
     <th><p><img align="center" width="500" src="https://github-readme-stats-dpc7.vercel.app/api/top-langs?username=princebansal7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princebansal7" /></p></th>
