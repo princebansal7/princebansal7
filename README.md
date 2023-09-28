@@ -159,6 +159,13 @@
             alt="gcp"
             width="40"
             height="40"
+        /> 
+    <a href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
+            alt="aws"
+            width="40"
+            height="40"
         />    
 </p>
       
