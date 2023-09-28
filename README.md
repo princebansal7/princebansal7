@@ -166,7 +166,14 @@
             alt="aws"
             width="40"
             height="40"
-        />    
+        />  
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"
+            alt="docker"
+            width="40"
+            height="40"
+        />   
 </p>
       
 [![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph)
