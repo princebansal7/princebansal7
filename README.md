@@ -14,10 +14,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/princebansal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princebansal07" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15748474/princebasnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="princebansal_" height="30" width="40" /></a>
-<!-- <a href="https://codepen.io/princebansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="princebansal_" height="30" width="40" /></a> -->
+<a href="https://codepen.io/princebansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="princebansal_" height="30" width="40" /></a>
 <a href="https://twitter.com/princebansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princebansal_" height="30" width="40" /></a>
 <a href="https://codesandbox.com/princebansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="princebansal_" height="30" width="40" /></a>
-<a href="https://fb.com/princebansal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="princebansal07" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/princebansal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="princebansal07" height="30" width="40" /></a> -->
 <a href="https://instagram.com/princebansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princebansal_" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/princebansal_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="princebansal_7" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/princebansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princebansal_" height="30" width="40" /></a>
@@ -31,9 +31,10 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c"
+            alt="coder"
             width="40"
             height="40"
+            border-radius=10%
         />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
