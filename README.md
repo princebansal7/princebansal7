@@ -184,11 +184,11 @@
 <p>&nbsp;</p>
 <table>
   <tr>
-    <th><p><img align="center" width="470" height="240" src="https://github-readme-stats-dpc7.vercel.app/api?username=princebansal7&show_icons=true&locale=en&theme=tokyonight" alt="princebansal7"/></p></th>
-    <th><p><img align="center" width="410" height="290" src="https://github-readme-streak-stats.herokuapp.com/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th>    
+    <th><p><img align="center" width="460" height="200" src="https://github-readme-stats-dpc7.vercel.app/api?username=princebansal7&show_icons=true&locale=en&theme=tokyonight" alt="princebansal7"/></p></th>
+    <th><p><img align="center" width="410" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th>    
   </tr>
   <tr>
-    <th><p><img align="center" width="500" height="200" src="https://github-readme-stats-dpc7.vercel.app/api/top-langs?username=princebansal7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princebansal7" /></p></th>
+    <th><p><img align="center" width="460" height="200" src="https://github-readme-stats-dpc7.vercel.app/api/top-langs?username=princebansal7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princebansal7" /></p></th>
     <th><img align="center" width="410" height="200" alt="Coding" src="coderman.gif"></th>
   </tr>
   
