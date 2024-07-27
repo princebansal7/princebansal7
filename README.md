@@ -6,9 +6,9 @@
 
 
 
-- 💬 Ask me about **Data structures, C, C++, React js**
+- 💬 Ask me about **DevOps & Backend solutions**
 
-- 📫 How to reach me **prince.bansal008@gmail.com**
+- 📫 How to reach me **prince.bansal1914@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
