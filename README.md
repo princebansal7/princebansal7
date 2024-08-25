@@ -177,10 +177,6 @@
         />   
 </p>
       
-[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph)
-
-<!--[![Prince's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph) -->
-
 <p>&nbsp;</p>
 <table>
   <tr>
@@ -193,3 +189,8 @@
   </tr>
   
 </table>
+
+[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph)
+
+<!--[![Prince's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph) -->
+
