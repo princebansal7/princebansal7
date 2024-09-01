@@ -8,7 +8,7 @@
 
 - Ask me about **DevOps & Backend solutions**
 
-- How to reach me **prince.bansal1914@gmail.com**
+- Contact me: **prince.bansal1914@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
