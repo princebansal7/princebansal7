@@ -181,7 +181,7 @@
 <table>
   <tr>
     <th><p><img align="center" width="460" height="200" src="https://github-readme-stats-dpc7.vercel.app/api?username=princebansal7&show_icons=true&locale=en&theme=tokyonight" alt="princebansal7"/></p></th>
-    <th><p><img align="center" width="410" height="200" src="https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats-flame-three.vercel.app/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th>    
+    <th><p><img align="center" width="410" height="200" src="https://github-readme-streak-stats-flame-three.vercel.app/?user=princebansal7&&theme=tokyonight" alt="princebansal7" /></p></th>    
   </tr>
   <tr>
     <th><p><img align="center" width="460" height="200" src="https://github-readme-stats-dpc7.vercel.app/api/top-langs?username=princebansal7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princebansal7" /></p></th>
@@ -193,4 +193,3 @@
 [![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph)
 
 <!--[![Prince's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=princebansal7&theme=github-compact)](https://github.com/princebansal7/github-readme-activity-graph) -->
-
