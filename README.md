@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif)](https://www.linkedin.com/in/princebansal07/) -->
 <h1 align="center">Hi, I'm Prince Bansal</h1>
-<h3 align="center">A passionate Coder from India.</h3>
+<h3 align="center">Writing code that runs itself so I can take longer coffee breaks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princebansal7&label=Profile%20views&color=0e75b6&style=flat" alt="princebansal7" /> </p>
 <img align="right" alt="Coding" width="400" src="guy.gif">
 
