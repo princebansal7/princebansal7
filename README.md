@@ -145,8 +145,21 @@
             height="40"
         />
     </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    <a href="https://postman.com" target="_blank"> 
+        <img 
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+            alt="postman" 
+            width="40" 
+            height="40"
+        /> 
+    </a>
+    <a href="https://redis.io" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" 
+            alt="redis" 
+            width="40" 
+            height="40"
+        />
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -162,13 +175,15 @@
             width="40"
             height="40"
         /> 
+     </a>
     <a href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
             alt="aws"
             width="40"
             height="40"
-        />  
+        /> 
+    </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
             src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"
@@ -176,7 +191,15 @@
             width="40"
             height="40"
         /> 
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>    
+    </a>
+    <a href="https://kubernetes.io" target="_blank"> 
+        <img 
+            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
+            alt="kubernetes" 
+            width="40" 
+            height="40"
+        /> 
+    </a>    
 </p>
       
 <p>&nbsp;</p>
